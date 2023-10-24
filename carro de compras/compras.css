@@ -1,0 +1,27 @@
+#carrito {
+    list-style: none;
+}
+
+#carrito li {
+    margin-bottom: 9px;
+}
+
+button.agregar {
+    background-color: #8cf8b5;
+    color: rgb(8, 8, 8);
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+button.agregar:hover {
+    background-color: #45a049;
+}
+.contenido{
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    background-color: aqua;
+
+}
